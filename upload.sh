@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 hugo --theme=pure --baseUrl="https://13toast.github.io/"
 git add .
 git commit -m "new publish"
