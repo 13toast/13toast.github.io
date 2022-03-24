@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://13toast.github.io/
 theme: pure
 title: Pure theme for Hugo
 publishDir: docs
