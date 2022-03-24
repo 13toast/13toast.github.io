@@ -9,12 +9,6 @@
   </url>
   
   <url>
-    <loc>https://13toast.github.io/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://13toast.github.io/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -22,6 +16,12 @@
   
   <url>
     <loc>https://13toast.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://13toast.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
