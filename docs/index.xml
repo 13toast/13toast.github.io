@@ -6,9 +6,19 @@
     <description>Recent content on toaster</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
+    <lastBuildDate>Thu, 24 Mar 2022 10:38:18 +0800</lastBuildDate>
     
         <atom:link href="https://13toast.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Begin</title>
+      <link>https://13toast.github.io/2022/03/begin/</link>
+      <pubDate>Thu, 24 Mar 2022 10:38:18 +0800</pubDate>
+      
+      <guid>https://13toast.github.io/2022/03/begin/</guid>
+      <description>Everything is ready.</description>
+    </item>
     
   </channel>
 </rss>
